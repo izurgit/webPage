@@ -1,2 +1,2 @@
 # webPage
-Just wanted a web page , with may name on it in centre.. and you can add other things you want.
+Just wanted a web page, with my name on it in the centre.. and you can add other things you want.
